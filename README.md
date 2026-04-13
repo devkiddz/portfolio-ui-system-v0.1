@@ -20,7 +20,7 @@ This project demonstrates how to structure and build reusable UI components usin
 
 ## 🚀 Key Features
 
-- Reusable component architecture (Button, Card, Modal, Input)
+- Reusable component architecture (Button, Card, Modal(Future Implementation), Input)
 - Dynamic rendering using structured data and mapping
 - Conditional UI logic using state and props
 - Responsive design with Tailwind CSS
@@ -48,7 +48,7 @@ This project demonstrates how to structure and build reusable UI components usin
 
 ## 🌐 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://portfolio-ui-system-v0-1.vercel.app/
 
 ---
 
