@@ -1,16 +1,55 @@
-# React + Vite
+# 🚀 Portfolio UI System (React + Tailwind)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A scalable, component-driven UI system built using React and Tailwind CSS. This project focuses on transforming static interfaces into dynamic, reusable components for modern frontend applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🧠 Overview
 
-## React Compiler
+This project demonstrates how to structure and build reusable UI components using a system-based approach. Instead of creating isolated pages, the focus is on building scalable components that can be reused across different parts of an application.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Tailwind CSS
+- JavaScript (ES6+)
+
+---
+
+## 🚀 Key Features
+
+- Reusable component architecture (Button, Card, Modal, Input)
+- Dynamic rendering using structured data and mapping
+- Conditional UI logic using state and props
+- Responsive design with Tailwind CSS
+- Scalable folder structure for maintainability
+
+---
+
+## 🧩 Components Included
+
+- Button (with variant system)
+- Card (reusable content container)
+- Input (form-ready component)
+- Modal (state-controlled UI)
+
+---
+
+## 📈 What This Project Demonstrates
+
+- Ability to refactor static UI into dynamic components
+- Understanding of component-based architecture
+- Implementation of reusable frontend systems
+- Clean and maintainable UI structure
+
+---
+
+## 🌐 Live Demo
+
+👉 https://your-vercel-link.vercel.app
+
+---
+
+## 📁 Project Structure
